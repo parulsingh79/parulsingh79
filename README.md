@@ -1,4 +1,4 @@
-<img width="565" alt="image" src="https://github.com/user-attachments/assets/bef758a7-e0e5-4f5f-9c4b-d2cda5dcabeb">## **Recently I got the requirement to create  a text in SO10 and create a FM and then pass values in it dynamically.**
+## **Recently I got the requirement to create  a text in SO10 and create a FM and then pass values in it dynamically.**
 ## Standard FMs used inside**
 * READ_TEXT
 * SET_TEXTSYMBOL_PROGRAM
@@ -39,7 +39,7 @@
  <img width="735" alt="image" src="https://github.com/user-attachments/assets/9d19b0ee-9c26-4fd2-90c4-5e4b07f531fa">
 
 
-* **Here's the final Output**
+## **Here's the final Output**
 * 
 * <img width="565" alt="image" src="https://github.com/user-attachments/assets/62b7a918-2bda-4274-b760-c3976f2a24c1">
 
